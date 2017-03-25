@@ -27,6 +27,7 @@
             <version>${spring.version}</version>
         </dependency>
 
+        <!--Web-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
@@ -39,6 +40,7 @@
             <version>${javax.servlet-api.version}</version>
         </dependency>
 
+        <!-- Database -->
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-jpa</artifactId>
